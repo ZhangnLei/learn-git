@@ -5,3 +5,4 @@ git is free software distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes of files.
 Createing a new branch is quick & simple.
+create branch feature3 to fixbug3
